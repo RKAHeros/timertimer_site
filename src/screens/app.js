@@ -9,7 +9,7 @@ import Privacy from './privacyScreen/privacy';
 
 const App = () => {
   return (
-    <Router basename="{process.env.PUBLIC_URL}">
+    <Router basename={process.env.PUBLIC_URL}>
       <div>
         <Switch>
           <Route exact path="/">
