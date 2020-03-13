@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/timertimer_site/static/js/main.a57fe0e8.chunk.js",
+    "main.js.map": "/timertimer_site/static/js/main.a57fe0e8.chunk.js.map",
+    "runtime-main.js": "/timertimer_site/static/js/runtime-main.a92f1d3c.js",
+    "runtime-main.js.map": "/timertimer_site/static/js/runtime-main.a92f1d3c.js.map",
+    "static/js/2.15895892.chunk.js": "/timertimer_site/static/js/2.15895892.chunk.js",
+    "static/js/2.15895892.chunk.js.map": "/timertimer_site/static/js/2.15895892.chunk.js.map",
+    "index.html": "/timertimer_site/index.html",
+    "precache-manifest.7122a6d56763fb67ace81bb8b8fcd4ac.js": "/timertimer_site/precache-manifest.7122a6d56763fb67ace81bb8b8fcd4ac.js",
+    "service-worker.js": "/timertimer_site/service-worker.js",
+    "static/js/2.15895892.chunk.js.LICENSE.txt": "/timertimer_site/static/js/2.15895892.chunk.js.LICENSE.txt",
+    "static/media/icon.png": "/timertimer_site/static/media/icon.14eccc9c.png",
+    "static/media/iphone11_1.png": "/timertimer_site/static/media/iphone11_1.0071cd50.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a92f1d3c.js",
+    "static/js/2.15895892.chunk.js",
+    "static/js/main.a57fe0e8.chunk.js"
+  ]
+}
