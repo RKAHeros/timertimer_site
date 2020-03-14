@@ -76,7 +76,7 @@ const Header = () => {
       <HeaderLeft>
         <Logo></Logo>
         <Title>
-          TimerTimer
+          TimerAndTimer
         </Title>
       </HeaderLeft>
       <HeaderRight>

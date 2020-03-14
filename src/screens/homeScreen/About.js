@@ -59,7 +59,7 @@ const About = () => {
     <Wrapper>
       <Box>
         <Messages>
-          <MessageHeader>TimerTimerとは</MessageHeader>
+          <MessageHeader>TimerAndTimerとは</MessageHeader>
           <MessageLine>複数のタイムを連続してカウウトダウンするタイマーアプリです。</MessageLine>
           <MessageLine>連続して種目を行う筋トレ等に便利です。</MessageLine>
           <MessageLine>ご質問等は regou8718@gmail.com にご連絡ください。</MessageLine>
